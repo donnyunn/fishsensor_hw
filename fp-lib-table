@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Battery_Pin)(type KiCad)(uri ${KIPRJMOD}/lib/Battery_Pin.pretty)(options "")(descr ""))
+  (lib (name tp)(type KiCad)(uri C:/Users/donny/work/dulab/cat_toilet/hwspace/cat_toilet/lib/tp.pretty)(options "")(descr ""))
+)

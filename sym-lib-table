@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MIC531833YD5TR)(type Legacy)(uri ${KIPRJMOD}/lib/MIC531833YD5TR/MIC531833YD5TR.lib)(options "")(descr ""))
+)
